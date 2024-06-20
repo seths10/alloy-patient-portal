@@ -1,5 +1,9 @@
 ![image](https://github.com/seths10/alloy-patient-portal/assets/59029978/26583c59-d495-406a-84aa-4b534dd760aa)
 
+<br />
+<br />
+<br />
+
 ```bash
 Make sure to install the dependencies:
 
@@ -12,6 +16,10 @@ pnpm install --shamefully-hoist
 then run:
 npm run dev
 ```
+
+<br />
+<br />
+<br />
 
 > [!NOTE]
 >
