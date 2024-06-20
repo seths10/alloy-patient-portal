@@ -2,10 +2,10 @@
   <div>
     <NuxtLayout :currentPage="thispage">
       <template v-slot:header>
-        <patient-header
+        <!-- <patient-header
           :patientName="patients?.name"
           :patientInsurance="patients?.insurance"
-          :patientDob="patients?.date_of_birth" />
+          :patientDob="patients?.date_of_birth" /> -->
       </template>
       <div class="mb-6">
         <h2 class="text-lg font-medium leading-6 text-slate-900">Overview</h2>
